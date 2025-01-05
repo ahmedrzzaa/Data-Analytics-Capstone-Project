@@ -43,7 +43,7 @@ def sidebar_navigation():
         "👥 Demographics", "🏠 Executive Summary","📝 Concluding Remarks", "🔚 Conclusion"])
 
     # Adding a link to GitHub
-    st.sidebar.markdown("[View on GitHub](https://github.com/ahmedrzzaa)")
+    st.sidebar.markdown("[View Source code on GitHub](https://github.com/ahmedrzzaa/Data-Analytics-Capstone-Project.git)")
 
     return section
 
