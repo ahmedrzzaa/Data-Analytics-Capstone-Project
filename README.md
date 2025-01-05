@@ -8,8 +8,6 @@ This Streamlit application provides an interactive analysis of developer trends 
 - [Usage](#usage)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
