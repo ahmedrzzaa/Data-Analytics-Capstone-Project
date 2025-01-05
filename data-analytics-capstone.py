@@ -19,7 +19,7 @@ def load_data():
     try:
         return pd.read_csv(url)
     except FileNotFoundError:
-        st.error("Dataset not found. Please ensure 'survey_data.csv' is in the app directory.")
+        st.error("Dataset not found.")
         return pd.DataFrame()
 
 data = load_data()
